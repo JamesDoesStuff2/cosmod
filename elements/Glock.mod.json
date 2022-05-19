@@ -1,0 +1,49 @@
+{
+  "_fv": 28,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "gun",
+    "customModelName": "glock:default",
+    "name": "Glock",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Cosmod"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "item.flintandsteel.use"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onEntitySwing": {
+      "name": "Glockshot"
+    },
+    "bulletPower": 10.0,
+    "bulletDamage": 10000.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Grenade"
+    },
+    "bulletModel": "ModelM33",
+    "customBulletModelTexture": "m33.png",
+    "onBulletHitsBlock": {
+      "name": "GlockBulletHit"
+    },
+    "onBulletHitsPlayer": {
+      "name": "GlockBulletHit"
+    },
+    "onBulletHitsEntity": {
+      "name": "GlockBulletHit"
+    }
+  }
+}

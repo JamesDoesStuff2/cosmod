@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/lavender_bush"
+    },
+    "half=lower": {
+      "model": "cosmod:block/lavender_bush_bottom"
+    }
+  }
+}

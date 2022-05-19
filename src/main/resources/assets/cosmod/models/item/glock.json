@@ -1,0 +1,7 @@
+{
+  "parent": "cosmod:custom/glock",
+  "textures": {
+    "2": "cosmod:blocks/glock",
+    "particle": "cosmod:items/gun"
+  }
+}

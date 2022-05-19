@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/pinkheartcake",
+  "textures": {
+    "all": "cosmod:blocks/pinkheartcake",
+    "particle": "cosmod:blocks/pinkheartcake",
+    "0": "cosmod:blocks/pinkheartcake"
+  }
+}

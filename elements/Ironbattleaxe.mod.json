@@ -1,0 +1,34 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "iron_battle_axe",
+    "customModelName": "Normal",
+    "name": "Iron battleaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Cosmod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 0.7,
+    "enchantability": 2,
+    "damageVsEntity": 14.0,
+    "usageCount": 250,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "IronbattleaxeToolInHandTick"
+    }
+  }
+}

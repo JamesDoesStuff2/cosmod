@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/blue_iris"
+    },
+    "half=lower": {
+      "model": "cosmod:block/blue_iris_bottom"
+    }
+  }
+}

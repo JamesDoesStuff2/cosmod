@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cosmod:block/corrupted_runestone"
+    }
+  }
+}

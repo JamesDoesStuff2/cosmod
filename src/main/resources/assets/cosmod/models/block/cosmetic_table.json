@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/main_table_model",
+  "textures": {
+    "all": "cosmod:blocks/tabletexture",
+    "particle": "cosmod:blocks/tabletexture",
+    "1": "cosmod:blocks/tabletexture"
+  }
+}

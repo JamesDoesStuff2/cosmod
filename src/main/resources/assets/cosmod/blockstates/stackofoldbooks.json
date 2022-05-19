@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cosmod:block/stackofoldbooks"
+    },
+    "facing=east": {
+      "model": "cosmod:block/stackofoldbooks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cosmod:block/stackofoldbooks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cosmod:block/stackofoldbooks",
+      "y": 270
+    }
+  }
+}

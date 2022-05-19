@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "flamingooystergrowthstage1"
+      },
+      "name": "default"
+    }
+  }
+}

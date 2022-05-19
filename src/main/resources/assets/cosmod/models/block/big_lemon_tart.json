@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/biglemontart",
+  "textures": {
+    "all": "cosmod:blocks/biglemontart",
+    "particle": "cosmod:blocks/biglemontart",
+    "0": "cosmod:blocks/biglemontart"
+  }
+}

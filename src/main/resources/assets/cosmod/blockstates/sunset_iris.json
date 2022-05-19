@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/sunset_iris"
+    },
+    "half=lower": {
+      "model": "cosmod:block/sunset_iris_bottom"
+    }
+  }
+}

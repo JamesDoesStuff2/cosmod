@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/stackofoldbooks",
+  "textures": {
+    "all": "cosmod:blocks/stackodoldbookstexture",
+    "particle": "cosmod:blocks/stackodoldbookstexture",
+    "12": "cosmod:blocks/stackodoldbookstexture"
+  }
+}

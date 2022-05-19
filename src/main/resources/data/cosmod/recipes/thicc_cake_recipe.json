@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cake"
+    }
+  ],
+  "result": {
+    "item": "cosmod:thicc_cake",
+    "count": 1
+  }
+}

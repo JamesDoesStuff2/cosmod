@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cosmod:block/big_lemon_tart"
+    },
+    "facing=east": {
+      "model": "cosmod:block/big_lemon_tart",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cosmod:block/big_lemon_tart",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cosmod:block/big_lemon_tart",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "10": "texture_copy_3"
+      },
+      "name": "default"
+    }
+  }
+}

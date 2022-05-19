@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cosmod:blocks/runicdirtblock",
+    "up": "cosmod:blocks/darkrunicgrassblocktop",
+    "north": "cosmod:blocks/runegrassblock",
+    "east": "cosmod:blocks/runegrassblock",
+    "south": "cosmod:blocks/runegrassblock",
+    "west": "cosmod:blocks/runegrassblock",
+    "particle": "cosmod:blocks/runicdirtblock"
+  }
+}

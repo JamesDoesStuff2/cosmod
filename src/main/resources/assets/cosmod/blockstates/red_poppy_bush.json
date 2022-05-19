@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/red_poppy_bush"
+    },
+    "half=lower": {
+      "model": "cosmod:block/red_poppy_bush_bottom"
+    }
+  }
+}

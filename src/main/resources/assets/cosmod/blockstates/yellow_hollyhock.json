@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/yellow_hollyhock"
+    },
+    "half=lower": {
+      "model": "cosmod:block/yellow_hollyhock_bottom"
+    }
+  }
+}

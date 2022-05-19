@@ -1,0 +1,7 @@
+{
+  "parent": "cosmod:custom/squire",
+  "textures": {
+    "2": "cosmod:blocks/squire",
+    "particle": "cosmod:items/squireplzwork"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "cosmod:custom/bronze_knuckles",
+  "textures": {
+    "0": "cosmod:blocks/brass_knuckles_texture",
+    "particle": "cosmod:items/brassknucklestemp"
+  }
+}

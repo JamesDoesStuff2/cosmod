@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/strawberrycremetart3",
+  "textures": {
+    "all": "cosmod:blocks/strawberrycremetart",
+    "particle": "cosmod:blocks/strawberrycremetart",
+    "1": "cosmod:blocks/strawberrycremetart"
+  }
+}

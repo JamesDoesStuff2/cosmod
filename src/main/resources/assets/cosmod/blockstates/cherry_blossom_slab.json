@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cosmod:block/cherry_blossom_slab"
+    },
+    "type=top": {
+      "model": "cosmod:block/cherry_blossom_slab_top"
+    },
+    "type=double": {
+      "model": "cosmod:block/cherry_blossom_slab_full"
+    }
+  }
+}

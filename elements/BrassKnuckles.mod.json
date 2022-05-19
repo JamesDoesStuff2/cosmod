@@ -1,0 +1,27 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "brassknucklestemp",
+    "customModelName": "bronze_knuckles:default",
+    "name": "Brass Knuckles",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Cosmod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 3.2,
+    "enchantability": 2,
+    "damageVsEntity": 1.5,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

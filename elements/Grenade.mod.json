@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 1,
+    "texture": "grenadem33thumb",
+    "customModelName": "m33:default",
+    "name": "M33 Grenade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Cosmod"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.tnt.primed"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "GrenadeRangedItemUsed"
+    },
+    "bulletPower": 0.5,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Grenade"
+    },
+    "bulletModel": "ModelM33",
+    "customBulletModelTexture": "m33.png",
+    "onBulletHitsBlock": {
+      "name": "GrenadeProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "GrenadeProjectileHitsBlock"
+    }
+  }
+}

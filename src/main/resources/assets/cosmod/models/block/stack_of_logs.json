@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/logs",
+  "textures": {
+    "all": "cosmod:blocks/logstexture",
+    "particle": "cosmod:blocks/logstexture",
+    "3": "cosmod:blocks/logstexture"
+  }
+}

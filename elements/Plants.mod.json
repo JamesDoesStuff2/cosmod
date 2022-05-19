@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Plants",
+    "icon": {
+      "value": "CUSTOM:LavenderBushShort"
+    },
+    "showSearch": false
+  }
+}

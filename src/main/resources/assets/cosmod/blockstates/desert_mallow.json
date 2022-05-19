@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/desert_mallow"
+    },
+    "half=lower": {
+      "model": "cosmod:block/desert_mallow_bottom"
+    }
+  }
+}

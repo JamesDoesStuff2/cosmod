@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cosmod:block/flamingo_oyster_grow_log_2"
+    },
+    "facing=east": {
+      "model": "cosmod:block/flamingo_oyster_grow_log_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cosmod:block/flamingo_oyster_grow_log_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cosmod:block/flamingo_oyster_grow_log_2",
+      "y": 270
+    }
+  }
+}

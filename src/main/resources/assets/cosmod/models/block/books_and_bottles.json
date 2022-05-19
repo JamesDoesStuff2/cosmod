@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/booksandbottles1",
+  "textures": {
+    "all": "cosmod:blocks/booksandbottles1",
+    "particle": "cosmod:blocks/booksandbottles1",
+    "8": "cosmod:blocks/booksandbottles1"
+  }
+}

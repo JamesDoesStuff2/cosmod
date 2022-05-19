@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "moonstafftexture",
+        "1": "moonstafftexture"
+      },
+      "name": "default"
+    }
+  }
+}

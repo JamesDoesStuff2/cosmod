@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cosmod:block/runic_dirt_block"
+    }
+  }
+}

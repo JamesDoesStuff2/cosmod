@@ -1,0 +1,7 @@
+{
+  "parent": "cosmod:custom/leathergauntlet",
+  "textures": {
+    "3": "cosmod:blocks/leathergauntlettexture",
+    "particle": "cosmod:items/leathergauntletimage"
+  }
+}

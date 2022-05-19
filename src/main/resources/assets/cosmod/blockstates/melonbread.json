@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cosmod:block/melonbread"
+    },
+    "facing=east": {
+      "model": "cosmod:block/melonbread",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cosmod:block/melonbread",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cosmod:block/melonbread",
+      "y": 270
+    }
+  }
+}

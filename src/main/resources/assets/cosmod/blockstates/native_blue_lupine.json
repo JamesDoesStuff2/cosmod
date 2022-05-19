@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cosmod:block/native_blue_lupine"
+    },
+    "half=lower": {
+      "model": "cosmod:block/native_blue_lupine_bottom"
+    }
+  }
+}

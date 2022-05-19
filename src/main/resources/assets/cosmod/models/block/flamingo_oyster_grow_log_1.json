@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/flamingooysterggrowthstage1",
+  "textures": {
+    "all": "cosmod:blocks/flamingooystergrowthstage1",
+    "particle": "cosmod:blocks/flamingooystergrowthstage1",
+    "6": "cosmod:blocks/flamingooystergrowthstage1"
+  }
+}

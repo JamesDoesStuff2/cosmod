@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cosmod:block/books_and_bottles"
+    },
+    "facing=east": {
+      "model": "cosmod:block/books_and_bottles",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cosmod:block/books_and_bottles",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cosmod:block/books_and_bottles",
+      "y": 270
+    }
+  }
+}

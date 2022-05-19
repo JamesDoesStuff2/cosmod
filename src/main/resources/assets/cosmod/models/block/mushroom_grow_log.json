@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/mushroomgrowlog",
+  "textures": {
+    "all": "cosmod:blocks/mushroomgrowlog",
+    "particle": "cosmod:blocks/mushroomgrowlog",
+    "2": "cosmod:blocks/mushroomgrowlog"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/purplecallalily",
+  "textures": {
+    "all": "cosmod:blocks/purplecallalily",
+    "particle": "cosmod:blocks/purplecallalily",
+    "0": "cosmod:blocks/purplecallalily"
+  }
+}

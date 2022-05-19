@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/moon_staff",
+  "textures": {
+    "0": "cosmod:blocks/moonstafftexture",
+    "1": "cosmod:blocks/moonstafftexture",
+    "particle": "cosmod:items/moonstafflmao"
+  }
+}

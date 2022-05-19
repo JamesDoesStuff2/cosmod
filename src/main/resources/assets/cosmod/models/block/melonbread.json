@@ -1,0 +1,8 @@
+{
+  "parent": "cosmod:custom/melonbread2",
+  "textures": {
+    "all": "cosmod:blocks/melonbread",
+    "particle": "cosmod:blocks/melonbread",
+    "3": "cosmod:blocks/melonbread"
+  }
+}

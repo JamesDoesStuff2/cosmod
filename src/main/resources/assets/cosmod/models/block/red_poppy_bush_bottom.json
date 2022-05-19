@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cosmod:blocks/redpoppybushbottom",
+    "particle": "cosmod:blocks/redpoppybushbottom"
+  }
+}
